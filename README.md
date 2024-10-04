@@ -11,6 +11,9 @@ pipenv shell
 pip install streamlit
 pip install -r requirements.txt
 ```
+## lokasi file dikomputer saya :
+D:\BANGKIT\MATERI\3. BELAJAR ANALIS DATA DENGAN PYTHON\submission
+jadi semua file dan folder ada didalam folder submission
 
 ## Run steamlit app
 ```
