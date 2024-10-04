@@ -1,5 +1,7 @@
 # E-Commerce Public Data Analysis ✨
 
+<img width="959" alt="projek streamllit" src="https://github.com/user-attachments/assets/2af673d3-72f5-4dd5-810e-436adb7d3ffc">
+
 ## Setup Environment - Shell/Terminal
 ```
 mkdir submission
