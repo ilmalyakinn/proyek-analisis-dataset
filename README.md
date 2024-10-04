@@ -6,7 +6,6 @@
 ```
 mkdir submission
 cd submission
-cd dashboard
 pipenv install
 pipenv shell
 pip install streamlit
@@ -18,6 +17,7 @@ jadi semua file dan folder ada didalam folder submission
 
 ## Run steamlit app
 ```
+cd dashboard
 streamlit run dashboard.py
 ```
 
