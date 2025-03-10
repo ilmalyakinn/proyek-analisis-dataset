@@ -1,6 +1,6 @@
 # E-Commerce Public Data Analysis ✨
-
-<img width="959" alt="projek streamllit" src="https://github.com/user-attachments/assets/2af673d3-72f5-4dd5-810e-436adb7d3ffc">
+## 📸 Tampilan Website
+[Klik untuk Melihat Demo Website](https://github.com/user-attachments/assets/236c49ab-a679-4380-8bcf-618f6f58649d/)
 
 ## Setup Environment - Shell/Terminal
 ```
